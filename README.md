@@ -1,1 +1,1 @@
-﻿# Python course from creativecodermm.com
+﻿Python course from creativecodermm.com
